@@ -1,13 +1,13 @@
-MY_NEW_GEM
+VersionsBlock
 ======
-![Gem](https://img.shields.io/gem/dt/MY_NEW_GEM?style=plastic)
-[![codecov](https://codecov.io/gh/dpep/MY_NEW_REPO/branch/main/graph/badge.svg)](https://codecov.io/gh/dpep/MY_NEW_REPO)
+![Gem](https://img.shields.io/gem/dt/versions_block?style=plastic)
+[![codecov](https://codecov.io/gh/dpep/versions_block/branch/main/graph/badge.svg)](https://codecov.io/gh/dpep/versions_block)
 
 ...
 
 
 ```ruby
-require "MY_NEW_GEM"
+require "versions_block"
 ```
 
 
