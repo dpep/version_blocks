@@ -1,13 +1,13 @@
-VersionsBlock
+VersionBlocks
 ======
-![Gem](https://img.shields.io/gem/dt/versions_block?style=plastic)
-[![codecov](https://codecov.io/gh/dpep/versions_block/branch/main/graph/badge.svg)](https://codecov.io/gh/dpep/versions_block)
+![Gem](https://img.shields.io/gem/dt/version_blocks?style=plastic)
+[![codecov](https://codecov.io/gh/dpep/version_blocks/branch/main/graph/badge.svg)](https://codecov.io/gh/dpep/version_blocks)
 
 ...
 
 
 ```ruby
-require "versions_block"
+require "version_blocks"
 ```
 
 
