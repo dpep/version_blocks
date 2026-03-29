@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    MY_NEW_GEM (0.0.0)
+    version_blocks (0.0.1)
 
 GEM
   remote: https://rubygems.org/
@@ -58,11 +58,11 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  MY_NEW_GEM!
   debug (>= 1)
   rspec (>= 3.10)
   rspec-debugging
   simplecov (>= 0.22)
+  version_blocks!
 
 BUNDLED WITH
    2.5.7
