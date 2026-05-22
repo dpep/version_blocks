@@ -1,3 +1,3 @@
 module VersionBlocks
-  VERSION = Gem.loaded_specs["version_blocks"].version.to_s
+  VERSION = "0.0.1"
 end
