@@ -1,12 +1,14 @@
+require_relative "lib/version_blocks/version"
+
 Gem::Specification.new do |s|
   s.authors     = ["Daniel Pepper"]
-  s.description = "..."
+  s.description = "Thread-local version scoping for code blocks."
   s.files       = `git ls-files * ':!:spec'`.split("\n")
   s.homepage    = "https://github.com/dpep/version_blocks"
   s.license     = "MIT"
-  s.name        = File.basename(__FILE__, ".gemspec")
+  s.name        = "version_blocks"
   s.summary     = "VersionBlocks"
-  s.version     = "0.0.1"
+  s.version     = VersionBlocks::VERSION
 
   s.required_ruby_version = ">= 3.2"
 
