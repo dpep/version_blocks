@@ -56,7 +56,7 @@ DEPENDENCIES
   debug (>= 1)
   rspec (>= 3.10)
   rspec-debugging
-  simplecov (>= 1, < 1.3)
+  simplecov (>= 1)
   version_blocks!
 
 BUNDLED WITH
